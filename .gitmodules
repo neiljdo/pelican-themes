@@ -160,7 +160,7 @@
 	url = https://github.com/hdra/Pelican-Cid.git
 [submodule "Flex"]
 	path = Flex
-	url = https://github.com/alexandrevicenzi/Flex.git
+	url = https://github.com/neiljdo/Flex.git
 [submodule "Casper2Pelican"]
 	path = Casper2Pelican
 	url = https://github.com/abr4xas/Casper2Pelican.git
